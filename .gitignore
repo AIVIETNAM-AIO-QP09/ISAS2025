@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+data/
+artifacts/
+*.pth
+*.pt
+*.ckpt
+*.csv
+!.github/**
+!tests/fixtures/**
